@@ -1,0 +1,18 @@
+.zoom:hover img {
+  transform: scale(1.1);
+} 
+
+@media (min-width: 992px) {
+  .rotate-lg-6 {
+    transform: 'rotate(6deg)';
+  }
+  #cta-img-nml-50 {
+    margin-left: 50px;
+  }
+}
+
+/* These are the KEY styles - you can add them directly to any object you want in your project */
+.fancy-border-radius {
+border-radius: '53% 47% 52% 48% / 36% 41% 59% 64%'
+}
+
